@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+*.manifest
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Config/Secrets
+# DO NOT commit tokens or user configs!
+token.json
+credentials.json
+.savevault/
